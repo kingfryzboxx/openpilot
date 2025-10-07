@@ -23,5 +23,7 @@
     "system/**",
     "third_party/**",
     "tools/**",
-  ]
+  ],
+  "hediet.vscode-drawio.codeLinkActivated": true,
+  "hediet.vscode-drawio.simpleLabels": true
 }
